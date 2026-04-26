@@ -42,10 +42,10 @@ Testing Performed:
 ![Security](security.png)
 
 ### IPv4 Ping Test
-![IPv4 Ping](ipv4_ping.png)
+![IPv4 Ping](ipv4.png)
 
 ### IPv6 Ping Test
-![IPv6 Ping](ipv6_ping.png)
+![IPv6 Ping](ipv6.png)
 
 Outcome:
 The network successfully ensures secure and efficient communication across multiple segments.
