@@ -27,6 +27,23 @@ Testing Performed:
 - Port security tested with unauthorized device
 - IPv6 connectivity tested
 
+  ## Project Screenshots
+
+### Network Topology
+![Topology](topology.png)
+
+### VLAN Configuration
+![VLAN](vlan.png)
+
+### Routing Table
+![Routing](routing.png)
+
+### Port Security
+![Security](security.png)
+
+### Ping Test
+![Ping](ping.png)
+
 Outcome:
 The network successfully ensures secure and efficient communication across multiple segments.
 
