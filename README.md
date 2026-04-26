@@ -42,7 +42,7 @@ Testing Performed:
 ![Security](security.png)
 
 ### Ping Test
-![Ping](ping.png)
+![Ping](ipv4 ping.png)
 
 Outcome:
 The network successfully ensures secure and efficient communication across multiple segments.
