@@ -41,8 +41,11 @@ Testing Performed:
 ### Port Security
 ![Security](security.png)
 
-### Ping Test
-![Ping](ipv4 ping.png)
+### IPv4 Ping Test
+![IPv4 Ping](ipv4_ping.png)
+
+### IPv6 Ping Test
+![IPv6 Ping](ipv6_ping.png)
 
 Outcome:
 The network successfully ensures secure and efficient communication across multiple segments.
